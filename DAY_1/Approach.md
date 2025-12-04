@@ -56,3 +56,33 @@ https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/proble
 ```
 
 ![alt text](image-8.png)
+
+
+``` bash
+
+arr[] = [12, 35, 1, 10, 34, 1]
+
+n < 2 ( false )
+
+first = 0;
+second = 0;
+
+
+i1
+	second = 0;
+	first = 12;
+i2
+	second = 12;
+	first = 35;
+i3 
+	elseif 
+		( 1 can be ignored ) 
+i4
+	elseif 
+		( 1 can be ignored ) 
+i5 
+	elseif
+		34 > 12 ( yes ) and 34 != 35
+		second = 34 
+
+```
